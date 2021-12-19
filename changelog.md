@@ -1,7 +1,5 @@
 ## Mintcraft: Starter Town v0.2
---------------------------------
 ##### (Dec 19 2021)
----
 
 **Forge Version:**
 * 39.0.6
@@ -26,9 +24,7 @@
 * Vanilla Hammers [VanillaHammers-1.18.1-4.0.0.jar]
 
 ## Mintcraft: Starter Town v0.1
---------------------------------
 ##### (Dec 18 2021)
----
 
 Initial release.
 
