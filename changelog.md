@@ -1,3 +1,28 @@
+## Mintcraft: Starter Town v0.4
+##### (Dec 21 2021)
+
+**Forge Version:**
+* 39.0.7
+
+**Updated mods:**
+* Better Advancements [BetterAdvancements-1.18.1-0.1.2.122.jar]
+* Clumps [Clumps-forge-1.18.1-8.0.4.jar]
+* Just Enough Resources (JER) [JustEnoughResources-1.18.1-0.13.1.138.jar]
+
+**Added mods:**
+* AutoRegLib [AutoRegLib-1.7-52.jar]
+* Drawers Tooltip [DrawersTooltip-1.18-forge-4.0.0.jar]
+* EnderTanks [enderchests-1.18-1.9.0.jar]
+* EnderChests [endertanks-1.18-1.11.0.jar]
+* Farmer's Delight [FarmersDelight-1.18.1-1.0.0.jar]
+* Platforms [platforms-1.18-1.9.0.jar]
+* ShetiPhianCore [shetiphiancore-1.18-3.10.0.jar]
+* Quark [Quark-3.0-332.jar]
+
+**Removed mods:**
+* Croptopia
+* Double Doors (Forge)
+
 ## Mintcraft: Starter Town v0.3
 ##### (Dec 20 2021)
 
