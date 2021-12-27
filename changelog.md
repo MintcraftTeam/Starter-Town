@@ -1,3 +1,29 @@
+## Mintcraft: Starter Town v0.5
+##### (Dec 26 2021)
+
+**Forge Version:**
+* 39.0.8
+
+**Updated mods:**
+* CC: Tweaked [cc-tweaked-1.18.1-1.100.0.jar]
+* Controlling [Controlling-forge-1.18.1-9.0.6.jar]
+* Curios API (Forge) [curios-forge-1.18.1-5.0.4.1.jar]
+* Immersive Engineering [ImmersiveEngineering-1.18.1-7.0.1-144.jar]
+* Mouse Tweaks [MouseTweaks-forge-mc1.18-2.21.jar]
+* Puzzles Lib (Forge) [PuzzlesLib-v3.1.2-1.18.1-Forge.jar]
+* Quark [Quark-3.0-334.jar]
+* Silent Gear [silent-gear-1.18.1-2.8.2.jar]
+* Sophisticated Backpacks [sophisticatedbackpacks-1.18.1-3.14.3.485.jar]
+* Storage Drawers [StorageDrawers-1.18.1-10.0.1.jar]
+* Supplementaries [supplementaries-1.18.1-1.1.1.jar]
+* Terralith 2.0 [Terralith_v2.0.6_Fabric+Forge.jar]
+* Wither Skeleton Tweaks [WitherSkeletonTweaks-1.18.1-7.0.1.jar]
+* Xaero's Minimap [Xaeros_Minimap_21.22.6_Forge_1.18.jar]
+* Xaero's World Map [XaerosWorldMap_1.18.9_Forge_1.18.jar]
+
+**Added mods:**
+* SwingThroughGrass [swingthroughgrass-1.18.1-1.8.0.jar]
+
 ## Mintcraft: Starter Town v0.4
 ##### (Dec 21 2021)
 
