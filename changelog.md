@@ -2,6 +2,43 @@
 ##### (Dec 26 2021)
 
 **Forge Version:**
+* 39.0.9
+
+**Updated mods:**
+* Aquaculture 2 
+* Balm (Forge Edition)
+* Controlling 
+* Corail Woodcutter
+* Create 
+* Curios API (Forge) 
+* Flywheel 
+* Immersive Engineering
+* MoreVanillaLib 
+* Placebo 
+* Puzzles Lib (Forge) 
+* Repurposed Structures (Forge)
+* Sophisticated Backpacks
+* Storage Drawers
+* Supplementaries
+* Xaero's Minimap
+* Xaero's World Map 
+
+**Added mods:**
+* Biomes O' Plenty 
+* Chisels & Bits - For Forge
+* Create Crafts & Additions
+* Inventory Sorter
+* Polymorph (Forge) 
+* Trash Cans
+* Super Martijn642's Core Lib
+
+**Removed mods:**
+* Terralith 2.0
+
+## Mintcraft: Starter Town v0.5
+##### (Dec 26 2021)
+
+**Forge Version:**
 * 39.0.8
 
 **Updated mods:**
