@@ -5,32 +5,34 @@
 * 39.0.9
 
 **Updated mods:**
-* Aquaculture 2 
-* Balm (Forge Edition)
-* Controlling 
-* Corail Woodcutter
-* Create 
-* Curios API (Forge) 
-* Flywheel 
-* Immersive Engineering
-* MoreVanillaLib 
-* Placebo 
-* Puzzles Lib (Forge) 
-* Repurposed Structures (Forge)
-* Sophisticated Backpacks
-* Storage Drawers
-* Supplementaries
-* Xaero's Minimap
-* Xaero's World Map 
+* Aquaculture 2 [Aquaculture-1.18.1-2.3.2.jar]
+* Balm (Forge Edition) [balm-2.4.0+0.jar]
+* CC: Tweaked [cc-tweaked-1.18.1-1.100.1.jar]
+* Controlling [Controlling-forge-1.18.1-9.0.7.jar]
+* Corail Woodcutter [corail_woodcutter-1.18-2.2.1.jar]
+* Create [create-mc1.18.1_v0.4b.jar]
+* Curios API (Forge) [curios-forge-1.18.1-5.0.4.2.jar]
+* Flywheel [flywheel-forge-1.18-0.5.0a.jar]
+* Immersive Engineering [ImmersiveEngineering-1.18.1-7.1.0-145.jar]
+* MoreVanillaLib [MoreVanillaLib-1.18.1-3.0.3.jar]
+* Placebo [Placebo-1.18.1-6.0.3.jar]
+* Puzzles Lib (Forge) [PuzzlesLib-v3.1.3-1.18.1-Forge.jar]
+* Repurposed Structures (Forge) [repurposed_structures_forge-4.0.10+1.18.1.jar]
+* Sophisticated Backpacks [sophisticatedbackpacks-1.18.1-3.15.0.494.jar]
+* Storage Drawers [StorageDrawers-1.18.1-10.1.0.jar]
+* Supplementaries [supplementaries-1.18.1-1.1.4.jar]
+* Xaero's Minimap [Xaeros_Minimap_21.23.0_Forge_1.18.jar]
+* Xaero's World Map [XaerosWorldMap_1.19.0_Forge_1.18.jar]
 
 **Added mods:**
-* Biomes O' Plenty 
-* Chisels & Bits - For Forge
-* Create Crafts & Additions
-* Inventory Sorter
-* Polymorph (Forge) 
-* Trash Cans
-* Super Martijn642's Core Lib
+* Biomes O' Plenty [BiomesOPlenty-1.18.1-15.0.0.61-universal.jar]
+* Chisels & Bits - For Forge [ChiselsBits-forge-1.18.1-1.2.60.jar]
+* Create Crafts & Additions [createaddition-1.18.1-20220101a.jar]
+* Inventory Sorter [inventorysorter-1.18-19.0.0.jar]
+* Polymorph (Forge) [polymorph-forge-1.18.1-0.34.jar]
+* Super Martijn642's Config Lib [supermartijn642configlib-1.0.9-mc1.18.jar]
+* Super Martijn642's Core Lib [supermartijn642corelib-1.0.15a-mc1.18.jar]
+* Trash Cans [trashcans-1.0.11-mc1.18.jar]
 
 **Removed mods:**
 * Terralith 2.0
