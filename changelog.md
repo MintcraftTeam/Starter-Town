@@ -1,5 +1,5 @@
-## Mintcraft: Starter Town v0.5
-##### (Dec 26 2021)
+## Mintcraft: Starter Town v0.6
+##### (Jan 1 2021)
 
 **Forge Version:**
 * 39.0.9
