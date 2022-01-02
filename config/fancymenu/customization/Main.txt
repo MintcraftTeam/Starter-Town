@@ -1,0 +1,142 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = 108
+  action = movebutton
+  y = 118
+}
+
+customization {
+  identifier = %id=400322%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = 210
+  action = movebutton
+  y = 166
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = -18
+  action = movebutton
+  y = 142
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = 6
+  action = movebutton
+  y = 166
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = 108
+  action = movebutton
+  y = 166
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = 210
+  action = movebutton
+  y = 142
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = 6
+  action = movebutton
+  y = 118
+}
+
+customization {
+  identifier = %id=400298%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = 6
+  action = movebutton
+  y = 142
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = element
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = -18
+  action = movebutton
+  y = 166
+}
+
+customization {
+  path = config/fancymenu/resources/logo.png
+  orientation = mid-centered
+  x = -106
+  width = 212
+  action = addtexture
+  actionid = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  y = -120
+  height = 100
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = BisectHosting
+  loopbackgroundanimations = true
+  orientation_element = ca6f14db-3d6f-4ed7-a084-3c916345046b1641142014333
+  x = 108
+  width = 98
+  actionid = 82623fc1-e369-4eb1-b739-e0c3da5041d81641143022463
+  action = addbutton
+  y = 142
+  value = https://bisecthosting.com/mintcraft
+  height = 20
+}
+

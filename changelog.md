@@ -1,3 +1,22 @@
+## Mintcraft: Starter Town v0.7
+##### (Jan 2 2021)
+
+**Forge Version:**
+* 39.0.9
+
+**Updated mods:**
+* Chisels & Bits - For Forge [ChiselsBits-forge-1.18.1-1.2.62.jar]
+* Controlling [Controlling-forge-1.18.1-9.0.8.jar]
+* Drawers Tooltip [DrawersTooltip-1.18.1-forge-4.1.0.jar]
+* Farmer's Delight [FarmersDelight-1.18.1-1.0.1.jar]
+* Just Enough Items (JEI) [jei-1.18.1-9.1.2.50.jar]
+
+**Added mods:**
+* Create Deco [createdeco-1.2.1-1.18.jar]
+
+**Removed mods:**
+* Biomes O' Plenty
+
 ## Mintcraft: Starter Town v0.6
 ##### (Jan 1 2021)
 
