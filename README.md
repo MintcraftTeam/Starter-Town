@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/nEiJA2T.png">
-  <a href="httpshttps://www.curseforge.com/minecraft/modpacks/mintcraft-starter-town" style="height:240px;"><img src="https://cf.way2muchnoise.eu/558358.svg"></a>
+  <a href="httpshttps://www.curseforge.com/minecraft/modpacks/mintcraft-starter-town" height="360"><img src="https://cf.way2muchnoise.eu/558358.svg"></a>
 </p>
 
 <p align="center">
