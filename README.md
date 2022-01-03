@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/nEiJA2T.png" height="360">
-  <a href="httpshttps://www.curseforge.com/minecraft/modpacks/mintcraft-starter-town"><img src="https://cf.way2muchnoise.eu/558358.svg"></a>
+  <img src="https://i.imgur.com/nEiJA2T.png" height="240">
 </p>
+
+<p align="center">
+  <a href="httpshttps://www.curseforge.com/minecraft/modpacks/mintcraft-starter-town"><img src="https://cf.way2muchnoise.eu/558358.svg"></a>
+</p
 
 <p align="center">
   <strong>Mintcraft: Starter Town</strong> is a modpack for Minecraft 1.18.1. This pack is built around the idea of gathering resources and building a bustling colony.
