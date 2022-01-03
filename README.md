@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="httpshttps://www.curseforge.com/minecraft/modpacks/mintcraft-starter-town"><img src="https://cf.way2muchnoise.eu/558358.svg"></a>
+  <a href="https://www.curseforge.com/minecraft/modpacks/mintcraft-starter-town"><img src="https://cf.way2muchnoise.eu/558358.svg"></a>
 </p
 
 <p align="center">
