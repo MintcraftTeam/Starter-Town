@@ -29,7 +29,7 @@
 * Apotheosis [Apotheosis-1.18.1-5.0.0.jar]
 * Biomes O' Plenty [BiomesOPlenty-1.18.1-15.0.0.91-universal.jar]
 * Crafting Tweaks [craftingtweaks-forge-1.18.1-14.0.2.jar]
-* Engineer's Decor []
+* Engineer's Decor [engineersdecor-1.18.1-1.1.19-b1.jar]
 * Fast Leaf Decay [FastLeafDecay-27.2.jar]
 * TerraBlender [TerraBlender-1.18.1-1.0.0.24-universal.jar]
 * Terralith 2.0 [Terralith_v2.0.10_Fabric+Forge.jar]
