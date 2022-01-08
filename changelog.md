@@ -1,3 +1,39 @@
+## Mintcraft: Starter Town v0.8
+##### (Jan 8 2021)
+
+**Forge Version:**
+* 39.0.13
+
+**Updated mods:**
+* Chisels & Bits - For Forge [ChiselsBits-forge-1.18.1-1.2.68-universal.jar]
+* Chunk Loaders [chunkloaders-1.1.8-mc1.18.jar]
+* Controlling [Controlling-forge-1.18.1-9.0.10.jar]
+* Corail Tombstone [tombstone-7.3.3-1.18.jar]
+* Create Crafts & Additions [createaddition-1.18.1-20220105a.jar]
+* Create Deco [createdeco-1.2.2-1.18.jar]
+* Curios API (Forge) [curios-forge-1.18.1-5.0.5.0.jar]
+* FancyMenu (Forge) [fancymenu_forge_2.5.0_MC_1.18-1.18.1.jar]
+* Jade [Jade-1.18-4.1.1.jar]
+* Just Enough Items (JEI) [jei-1.18.1-9.1.2.61.jar]
+* Konkrete (Forge) [konkrete_forge_1.3.3_MC_1.18-1.18.1.jar]
+* Polymorph (Forge) [polymorph-forge-1.18.1-0.35.jar]
+* Repurposed Structures (Forge) [repurposed_structures_forge-4.1.0+1.18.1.jar]
+* Silent Gear [silent-gear-1.18.1-2.8.3.jar]
+* Simple Storage Network [SimpleStorageNetwork-1.18.1-1.5.2.jar]
+* Sophisticated Backpacks [sophisticatedbackpacks-1.18.1-3.15.1.505.jar]
+* SuperMartijn642's Core Lib [supermartijn642corelib-1.0.16-mc1.18.jar]
+* Supplementaries [supplementaries-1.18.1-1.1.6.jar]
+* Trash Cans [trashcans-1.0.12-mc1.18.jar]
+
+**Added mods:**
+* Apotheosis [Apotheosis-1.18.1-5.0.0.jar]
+* Biomes O' Plenty [BiomesOPlenty-1.18.1-15.0.0.91-universal.jar]
+* Crafting Tweaks [craftingtweaks-forge-1.18.1-14.0.2.jar]
+* Engineer's Decor []
+* Fast Leaf Decay [FastLeafDecay-27.2.jar]
+* TerraBlender [TerraBlender-1.18.1-1.0.0.24-universal.jar]
+* Terralith 2.0 [Terralith_v2.0.10_Fabric+Forge.jar]
+
 ## Mintcraft: Starter Town v0.7
 ##### (Jan 2 2021)
 

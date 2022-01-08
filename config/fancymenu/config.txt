@@ -18,7 +18,7 @@ I:defaultguiscale = '3';
 ##[customization]
 
 B:advancedmode = 'false';
-B:showcustomizationbuttons = 'true';
+B:showcustomizationbuttons = 'false';
 
 
 ##[mainmenu]
@@ -26,8 +26,8 @@ B:showcustomizationbuttons = 'true';
 S:copyrightposition = 'bottom-right';
 B:hidebranding = 'true';
 S:copyrightcolor = '#ffffff';
-B:hidelogo = 'false';
-B:hiderealmsnotifications = 'false';
+B:hidelogo = 'true';
+B:hiderealmsnotifications = 'true';
 B:hideforgenotifications = 'false';
 
 
@@ -37,7 +37,7 @@ S:splashcolor = '#ffff00';
 I:splashrotation = '-20';
 I:splashy = '0';
 I:splashx = '0';
-B:hidesplashtext = 'false';
+B:hidesplashtext = 'true';
 S:splashtextfile = '';
 S:splashorientation = 'original';
 
