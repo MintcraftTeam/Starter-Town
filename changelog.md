@@ -1,3 +1,32 @@
+## Mintcraft: Starter Town v0.9
+##### (Jan 9 2021)
+
+**Forge Version:**
+* 39.0.14
+
+**Updated mods:**
+* Biomes O' Plenty [BiomesOPlenty-1.18.1-15.0.0.94-universal.jar]
+* Chisels & Bits - For Forge [ChiselsBits-forge-1.18.1-1.2.70-universal.jar]
+* Controlling [Controlling-forge-1.18.1-9.0.11.jar]
+* Curios API (Forge) [curios-forge-1.18.1-5.0.5.1.jar]
+* Just Enough Items (JEI) [jei-1.18.1-9.2.1.69.jar]
+* MineColonies [minecolonies-1.18.1-1.0.336-BETA.jar]
+* TerraBlender (Forge) [TerraBlender-forge-1.18.1-1.1.0.26.jar]
+
+**Added mods:**
+* Blueprint [blueprint-1.18.1-5.0.0.jar]
+* Chipped [chipped-1.18.1-1.2.1-forge.jar]
+* Compat O' Plenty [Compat-O-Plenty-1.18.1-1.2.0.jar]
+* Configured [configured-1.5.1-1.18.1.jar]
+* Cosmetic Armor Reworked [CosmeticArmorReworked-1.18.1-v1a.jar]
+* Decorative Blocks [Decorative Blocks-forge-1.18.1-2.0.2.jar]
+* Decorative Winter [Decorative Winter-forge-1.18.1-2.0.0.jar]
+* Vein Mining (Forge) [veinmining-forge-1.18.1-0.16.jar]
+* When Dungeons Arise - Forge! [DungeonsArise-1.18.1-2.1.49c-beta.jar]
+
+**Removed mods:**
+* World Stripper
+
 ## Mintcraft: Starter Town v0.8
 ##### (Jan 8 2021)
 
