@@ -1,3 +1,33 @@
+## Mintcraft: Starter Town v0.11
+##### (Jan 30 2021)
+
+**Forge Version:**
+* 39.0.64
+
+**Updated mods:**
+* Xaero's Minimap [Xaeros_Minimap_22.1.2_Forge_1.18.jar]
+
+**Added mods:**
+* Additional Lanterns [additionallanterns-1.0.0-mc1.18.jar]
+* AmbientSounds 5 [AmbientSounds_v5.0.7_mc1.18.1.jar]
+* Architectury API (Forge) [architectury-3.5.12.jar]
+* Bad Wither No Cookie - Reloaded [bwncr-forge-1.18.1-3.10.18.jar]
+* CreativeCore [CreativeCore_v2.4.1_mc1.18.1.jar]
+* Extended Lights [extlights-4.2.jar]
+* Falling Leaves (Forge) [Fallingleaves-1.18.1-1.3.1.jar]
+* ForgeEndertech [ForgeEndertech-1.18.1-8.0.0.0-build.0040.jar]
+* FTB Chunks (Forge) [ftb-chunks-forge-1801.3.3-build.113.jar]
+* FTB Essentials (Forge) [ftb-essentials-1801.1.6-build.37.jar]
+* FTB Library (Forge) [ftb-library-forge-1801.3.5-build.109.jar]
+* FTB Teams (Forge) [ftb-teams-forge-1801.2.4-build.46.jar]
+* Large Ore Deposits [AdLods-1.18.1-5.0.0.0-build.0044.jar]
+* Macaw's Paintings [mcw-paintings-1.0.2-mc1.18.1.jar]
+* Macaw's Roofs [mcw-roofs-2.1.0-mc1.18.1.jar]
+* Structure Gel API [structure_gel-1.18.1-2.1.3.jar]
+* The Conjurer [the-conjurer-1.18.1-1.1.1.jar]
+* TipTheScales [TipTheScales-forge-1.18.1-5.0.0+1.jar]
+* Waddles [Waddles-1.18-0.8.18.jar]
+
 ## Mintcraft: Starter Town v0.10
 ##### (Jan 30 2021)
 
