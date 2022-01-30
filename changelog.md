@@ -1,3 +1,63 @@
+## Mintcraft: Starter Town v0.10
+##### (Jan 30 2021)
+
+**Forge Version:**
+* 39.0.64
+
+**Updated mods:**
+* Apotheosis [Apotheosis-1.18.1-5.2.2.jar]
+* AppleSkin [appleskin-forge-mc1.18-2.3.0.jar]
+* AttributeFix [AttributeFix-Forge-1.18.1-13.0.5.jar]
+* Balm (Forge Edition) [balm-2.4.2+0.jar]
+* Biomes O' Plenty [BiomesOPlenty-1.18.1-15.0.0.105-universal.jar]
+* BlockUI [blockui-1.18-0.0.40-ALPHA.jar]
+* CC: Tweaked [cc-tweaked-1.18.1-1.100.2.jar]
+* Chisels & Bits - For Forge [ChiselsBits-forge-1.18.1-1.2.77-universal.jar]
+* Chunk Loaders [chunkloaders-1.1.9-mc1.18.jar]
+* Clumps [Clumps-forge-1.18.1-8.0.0+5.jar]
+* Compat O' Plenty [Compat-O-Plenty-1.18.1-1.3.0.jar]
+* Controlling [Controlling-forge-1.18.1-9.0+14.jar]
+* Cooking for Blockheads [cookingforblockheads-forge-1.18.1-11.1.0.jar]
+* Corail Tombstone [tombstone-7.3.7-1.18.jar]
+* Create [create-mc1.18.1_v0.4d.jar]
+* Create Crafts & Additions [createaddition-1.18.1-20220125a.jar]
+* Create Deco [createdeco-1.2.3-1.18.jar]
+* Curios API (Forge) [curios-forge-1.18.1-5.0.6.0.jar]
+* Curios Elytra (Forge) [curiouselytra-forge-1.18.1-5.0.1.0.jar]
+* Decorative Blocks [Decorative Blocks-forge-1.18.1-2.0.4.jar]
+* Decorative Winter [Decorative Winter-forge-1.18.1-2.0.1.jar]
+* Default Options [defaultoptions-forge-1.18.1-14.1.0.jar]
+* EnderTanks [endertanks-1.18-1.11.1.jar]
+* Engineer's Decor [engineersdecor-1.18.1-1.1.19-b3.jar]
+* FancyMenu (Forge) [fancymenu_forge_2.6.0_MC_1.18-1.18.1.jar]
+* Farmer's Delight [FarmersDelight-1.18.1-1.0.3.jar]
+* Flywheel [flywheel-forge-1.18-0.6.0.jar]
+* Jade [Jade-1.18-4.1.2.jar]
+* Just Enough Items (JEI) [jei-1.18.1-9.2.3.84.jar]
+* KleeSlabs [kleeslabs-forge-1.18.1-11.0.1.jar]
+* MineColonies [minecolonies-1.18.1-1.0.377-BETA.jar]
+* Placebo [Placebo-1.18.1-6.0.5.jar]
+* Platforms [platforms-1.18-1.9.1.jar]
+* Polymorph (Forge) [polymorph-forge-1.18.1-0.36.jar]
+* Repurposed Structures (Forge) [repurposed_structures_forge-4.2.6+1.18.1.jar]
+* Selene Lib [selene-1.18-1.12.0.jar]
+* ShetiPhianCore [shetiphiancore-1.18-3.10.2.jar]
+* Silent Gear [silent-gear-1.18.1-2.8.6.jar]
+* Storage Drawers [StorageDrawers-1.18.1-10.1.1.jar]
+* SuperMarijn642's Core Lib [supermartijn642corelib-1.0.16a-mc1.18.jar]
+* Supplementaries [supplementaries-1.18.1-1.1.11.jar]
+* TerraBlender (Forge) [TerraBlender-forge-1.18.1-1.1.0.73.jar]
+* Terralith 2.0 [Terralith_v2.0.12_Fabric+Forge.jar]
+* Torchmaster [torchmaster-18.0.3-beta.jar]
+* Waystones [waystones-forge-1.18.1-9.0.3.jar]
+* Xaero's Minimap [Xaeros_Minimap_22.1.1_Forge_1.18.jar]
+* Xaero's World Map [XaerosWorldMap_1.20.1_Forge_1.18.jar]
+
+**Added mods:**
+* Feature NBT Deadlock Be Gone [feature_nbt_deadlock_be_gone_forge-1.0.0+1.18.1.jar]
+* Load My Resources (Forge) [loadmyresources_1.0.1_MC_1.18.jar]
+* No Null Processors [no_null_processors_forge-2.0.2+1.18.1.jar]
+
 ## Mintcraft: Starter Town v0.9
 ##### (Jan 9 2021)
 
