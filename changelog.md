@@ -1,5 +1,48 @@
+## Mintcraft: Starter Town v0.12
+##### (Feb 1 2022)
+
+**Forge Version:**
+* 39.0.64
+
+**Updated mods:**
+* AmbientSounds 5 [AmbientSounds_v5.0.8_mc1.18.1.jar]
+* Architectury API (Forge) [architectury-3.6.15.jar]
+* Corail Tombstone [tombstone-7.3.8-1.18.jar]
+* Create Deco [createdeco-1.2.5-1.18.jar]
+* CreativeCore [CreativeCore_v2.4.2_mc1.18.1.jar]
+* FancyMenu (Forge) [fancymenu_forge_2.6.1_MC_1.18-1.18.1.jar]
+* TipTheScales [TipTheScales-forge-1.18.1-5.0.3.jar]
+* When Dungeons Arise - Forge! [DungeonsArise-1.18.1-2.1.49d-beta.jar]
+* Xaero's Minimap [Xaeros_Minimap_22.1.3_Forge_1.18.jar]
+* Xaero's Worldmap [XaerosWorldMap_1.20.2_Forge_1.18.jar]
+
+**Added mods:**
+* Bedspreads (Forge) [bedspreads-forge-1.18.1-5.1.0.5.jar]
+* Bonsai Trees 3 [bonsaitrees3-3.0.2.jar]
+* Construction Wand [constructionwand-1.18.1-2.6.jar]
+* Doggy Talents [DoggyTalents-1.18.1-2.4.2.jar]
+* Dungeon Crawl [DungeonCrawl-1.18.1-2.3.6.jar]
+* Iron Chests [ironchest-1.18-13.0.7.jar]
+* Libnonymous [libnonymous-2.0.0.jar]
+* Mantle [Mantle-1.18.1-1.8.31.jar]
+* Nature's Compass [NaturesCompass-1.18.1-1.9.4-forge.jar]
+* Paragliders [Paraglider-1.18-1.5.0.0.jar]
+* Productive Bees [productivebees-1.18.1-0.8.0.6.jar]
+* Refined Storage [refinedstorage-1.10.0.jar]
+* Refined Storage Addons [refinedstorageaddons-0.8.1.jar]
+* Refined Storage: Requestify [rsrequestify-2.2.0.jar]
+* The Weirding Gadget [weirdinggadget-1.18.1-2.2.10.jar]
+* Tinkers Construct [TConstruct-1.18.1-3.4.0.34.jar]
+
+**Removed mods:**
+* Chunk Loaders
+* Silent Gear
+* Silent Lib
+* Simple Storage Network
+* SuperMartijn642's Config Lib
+
 ## Mintcraft: Starter Town v0.11
-##### (Jan 30 2021)
+##### (Jan 30 2022)
 
 **Forge Version:**
 * 39.0.64
@@ -29,7 +72,7 @@
 * Waddles [Waddles-1.18-0.8.18.jar]
 
 ## Mintcraft: Starter Town v0.10
-##### (Jan 30 2021)
+##### (Jan 30 2022)
 
 **Forge Version:**
 * 39.0.64
@@ -89,7 +132,7 @@
 * No Null Processors [no_null_processors_forge-2.0.2+1.18.1.jar]
 
 ## Mintcraft: Starter Town v0.9
-##### (Jan 9 2021)
+##### (Jan 9 2022)
 
 **Forge Version:**
 * 39.0.14
@@ -118,7 +161,7 @@
 * World Stripper
 
 ## Mintcraft: Starter Town v0.8
-##### (Jan 8 2021)
+##### (Jan 8 2022)
 
 **Forge Version:**
 * 39.0.13
@@ -154,7 +197,7 @@
 * Terralith 2.0 [Terralith_v2.0.10_Fabric+Forge.jar]
 
 ## Mintcraft: Starter Town v0.7
-##### (Jan 2 2021)
+##### (Jan 2 2022)
 
 **Forge Version:**
 * 39.0.9
@@ -173,7 +216,7 @@
 * Biomes O' Plenty
 
 ## Mintcraft: Starter Town v0.6
-##### (Jan 1 2021)
+##### (Jan 1 2022)
 
 **Forge Version:**
 * 39.0.9
