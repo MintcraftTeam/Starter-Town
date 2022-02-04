@@ -1,3 +1,8 @@
+## Mintcraft: Starter Town v0.12a
+##### (Feb 4 2022)
+
+Fixed keybinds.
+
 ## Mintcraft: Starter Town v0.12
 ##### (Feb 3 2022)
 
