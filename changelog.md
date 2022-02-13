@@ -1,3 +1,40 @@
+## Mintcraft: Starter Town v0.13
+##### (Feb 6 2022)
+
+**Forge Version:**
+* 39.0.76
+
+**Updated mods:**
+* Apotheosis [Apotheosis-1.18.1-5.3.2.jar]
+* Architectury API (Forge) [architectury-3.6.17.jar]
+* AutoRegLib [AutoRegLib-1.7-53.jar]
+* Blueprint [blueprint-1.18.1-5.1.1.jar]
+* Bonsai Trees 3 [bonsaitrees3-3.0.4.jar]
+* Chisels & Bits - For Forge [ChiselsBits-forge-1.18.1-1.2.79-universal.jar]
+* Compat O' Plenty [Compat-O-Plenty-1.18.1-1.4.1.jar]
+* Configured [configured-1.5.3-1.18.1.jar]
+* Corail Tombstone [tombstone-7.4.0-1.18.jar]
+* FastFurnace [FastFurnace-1.18.1-6.0.2.jar]
+* FastWorkbench [FastWorkbench-1.18.1-6.0.1.jara]
+* Jade [Jade-1.18-4.2.0.jar]
+* Just Enough Items (JEI) [jei-1.18.1-9.3.2.92.jar]
+* Libnonymous [libnonymous-2.0.3.jar]
+* MineColonies [minecolonies-1.18.1-1.0.428-RELEASE.jar]
+* Placebo [Placebo-1.18.1-6.1.0.jar]
+* Polymorph (Forge) [polymorph-forge-1.18.1-0.37.jar]
+* Puzzles Lib (Forge) [PuzzlesLib-v3.1.5-1.18.1-Forge.jar]
+* Quark [Quark-3.1-336.jar]
+* Repurposed Structures (Forge) [repurposed_structures_forge-4.2.10+1.18.1.jar]
+* Sophisticated Backpacks [sophisticatedbackpacks-1.18.1-3.15.9.533.jar]
+* Structurize [structurize-1.18.1-1.0.342-RELEASE.jar]
+* Toast Control [ToastControl-1.18.1-6.0.1.jar]
+* Vein Mining (Forge) [veinmining-forge-1.18.1-0.17.jar]
+* Wither Skeleton Tweaks [WitherSkeletonTweaks-1.18.1-7.1.0.jar]
+
+**Added mods:**
+* Enchantment Descriptions [EnchantmentDescriptions-Forge-1.18.1-9.0.11.jar]
+* Patchouli [Patchouli-1.18.1-65.jar]
+
 ## Mintcraft: Starter Town v0.12a
 ##### (Feb 4 2022)
 
